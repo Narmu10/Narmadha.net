@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\obj\Debug\IntegralType.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\obj\Debug\IntegralType.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\narmadha_anbalagan\Documents\project\C#\IntegralData\DataTypes\obj\Debug\DataTypes.pdb
