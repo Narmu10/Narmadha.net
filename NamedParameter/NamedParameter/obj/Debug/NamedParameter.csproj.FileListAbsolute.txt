@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\bin\Debug\NamedParameter.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\bin\Debug\NamedParameter.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\obj\Debug\NamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\obj\Debug\NamedParameter.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\NamedParameter\NamedParameter\obj\Debug\NamedParameter.pdb

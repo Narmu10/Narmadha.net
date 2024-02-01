@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\bin\Debug\ConversionMethod.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\bin\Debug\ConversionMethod.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\bin\Debug\ConversionMethod.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\ConversionMethod\ConversionMethod\obj\Debug\ConversionMethod.pdb
