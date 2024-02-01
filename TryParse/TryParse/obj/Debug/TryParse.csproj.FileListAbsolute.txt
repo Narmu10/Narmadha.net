@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\TryParse\TryParse\obj\Debug\TryParse.pdb
