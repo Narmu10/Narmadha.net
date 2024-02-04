@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\SingleResponsibility\SingleResponsibility\obj\Debug\SingleResponsibility.pdb

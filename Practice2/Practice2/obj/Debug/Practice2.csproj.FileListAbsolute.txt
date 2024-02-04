@@ -5,3 +5,11 @@ C:\Users\narmadha_anbalagan\source\repos\Narmadha.net\Practice2\Practice2\obj\De
 C:\Users\narmadha_anbalagan\source\repos\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
 C:\Users\narmadha_anbalagan\source\repos\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.exe
 C:\Users\narmadha_anbalagan\source\repos\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\bin\Debug\Practice2.xml
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\Practice2\Practice2\obj\Debug\Practice2.pdb

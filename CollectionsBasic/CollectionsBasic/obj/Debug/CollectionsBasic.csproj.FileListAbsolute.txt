@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\bin\Debug\CollectionsBasic.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\bin\Debug\CollectionsBasic.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\bin\Debug\CollectionsBasic.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\obj\Debug\CollectionsBasic.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\obj\Debug\CollectionsBasic.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\obj\Debug\CollectionsBasic.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\CollectionsBasic\CollectionsBasic\obj\Debug\CollectionsBasic.pdb
