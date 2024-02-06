@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\bin\Debug\PredictionD.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\bin\Debug\PredictionD.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\bin\Debug\PredictionD.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\obj\Debug\PredictionD.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\obj\Debug\PredictionD.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\obj\Debug\PredictionD.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\PredictionD\obj\Debug\PredictionD.pdb

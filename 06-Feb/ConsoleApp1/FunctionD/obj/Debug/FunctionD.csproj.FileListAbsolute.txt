@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\bin\Debug\FunctionD.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\bin\Debug\FunctionD.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\bin\Debug\FunctionD.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\obj\Debug\FunctionD.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\obj\Debug\FunctionD.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\obj\Debug\FunctionD.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\FunctionD\obj\Debug\FunctionD.pdb

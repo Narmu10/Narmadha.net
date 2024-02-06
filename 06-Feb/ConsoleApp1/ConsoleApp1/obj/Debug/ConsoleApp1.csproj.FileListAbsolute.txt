@@ -1,0 +1,7 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\06-Feb\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
