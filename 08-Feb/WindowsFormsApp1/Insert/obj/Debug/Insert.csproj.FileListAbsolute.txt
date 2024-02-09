@@ -1,0 +1,10 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\bin\Debug\Insert.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\bin\Debug\Insert.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\bin\Debug\Insert.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.Insert.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.Properties.Resources.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.csproj.GenerateResource.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\Insert\obj\Debug\Insert.pdb

@@ -1,0 +1,17 @@
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\bin\Debug\EMart.exe.config
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\bin\Debug\EMart.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\bin\Debug\EMart.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.csproj.AssemblyReference.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.Properties.Resources.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.csproj.GenerateResource.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.csproj.CoreCompileInputs.cache
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.exe
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.menu.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.Insert.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.Delete.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.Display.resources
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\bin\Debug\EMartDllOperation.dll
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\bin\Debug\EMartDllOperation.pdb
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.csproj.CopyComplete
+C:\Users\narmadha_anbalagan\Documents\Github\Narmadha.net\08-Feb\WindowsFormsApp1\EMart\obj\Debug\EMart.Updatedetails.resources
