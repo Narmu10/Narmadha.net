@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\narmadha_anbalagan\\Documents\\Github\\Narmadha.net\\14-Feb\\RestClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9425D9B-E0A0-4CD8-851A-1ECF88C0AC7A}|RestClient\\RestClient.csproj|c:\\users\\narmadha_anbalagan\\documents\\github\\narmadha.net\\14-feb\\restclient\\restclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9425D9B-E0A0-4CD8-851A-1ECF88C0AC7A}|RestClient\\RestClient.csproj|solutionrelative:restclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\narmadha_anbalagan\\Documents\\Github\\Narmadha.net\\14-Feb\\RestClient\\RestClient\\Program.cs",
+              "RelativeDocumentMoniker": "RestClient\\Program.cs",
+              "ToolTip": "C:\\Users\\narmadha_anbalagan\\Documents\\Github\\Narmadha.net\\14-Feb\\RestClient\\RestClient\\Program.cs",
+              "RelativeToolTip": "RestClient\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T19:42:10.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
