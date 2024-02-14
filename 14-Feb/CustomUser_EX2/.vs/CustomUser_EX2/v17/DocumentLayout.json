@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\narmadha_anbalagan\\Documents\\Github\\Narmadha.net\\14-Feb\\CustomUser_EX2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228571D0-BCA8-432E-BC70-C68FDAA801A1}|CustomUser_EX2\\CustomUser_EX2.csproj|c:\\users\\narmadha_anbalagan\\documents\\github\\narmadha.net\\14-feb\\customuser_ex2\\customuser_ex2\\webform_customuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{228571D0-BCA8-432E-BC70-C68FDAA801A1}|CustomUser_EX2\\CustomUser_EX2.csproj|solutionrelative:customuser_ex2\\webform_customuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm_CustomUser.aspx",
+              "DocumentMoniker": "C:\\Users\\narmadha_anbalagan\\Documents\\Github\\Narmadha.net\\14-Feb\\CustomUser_EX2\\CustomUser_EX2\\WebForm_CustomUser.aspx",
+              "RelativeDocumentMoniker": "CustomUser_EX2\\WebForm_CustomUser.aspx",
+              "ToolTip": "C:\\Users\\narmadha_anbalagan\\Documents\\Github\\Narmadha.net\\14-Feb\\CustomUser_EX2\\CustomUser_EX2\\WebForm_CustomUser.aspx",
+              "RelativeToolTip": "CustomUser_EX2\\WebForm_CustomUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-14T22:41:54.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
